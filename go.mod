@@ -13,7 +13,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.5.2
 	github.com/go-redis/redis/v8 v8.11.0
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/gorse-io/dashboard v0.0.0-20210625080444-9e1288209f35
 	github.com/haxii/go-swagger-ui v3.19.4+incompatible
 	github.com/json-iterator/go v1.1.10
@@ -23,11 +23,11 @@ require (
 	github.com/scylladb/go-set v1.0.2
 	github.com/spf13/cobra v0.0.7
 	github.com/steinfletcher/apitest v1.5.11
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.3
 	go.mongodb.org/mongo-driver v1.5.1
 	go.uber.org/zap v1.17.0
-	gonum.org/v1/gonum v0.0.0-20190409070159-6e46824336d2
-	google.golang.org/grpc v1.37.0
-	google.golang.org/protobuf v1.26.0
+	gonum.org/v1/gonum v0.11.0
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v2 v2.4.0
 )
